@@ -1,30 +1,30 @@
-GTA V Natives Documentation
-===========================
+Documentação do GTA V Natives
+============================
 
-Documentation of GTA V's native function database.
+Documentação do banco de dados de funções nativas do GTA V.
 
 https://runtime.fivem.net/doc/natives/
 
-Contributing
+Contribuindo
 ------------
 
-Contributions are greatly appreciated! Before you submit a pull request, please read [CONTRIBUTING.md][contributing].
+Contribuições são muito apreciadas! Antes de enviar uma solicitação de pull, leia [CONTRIBUTING.md][contributing].
 
-Some topics to contribute on:
+Alguns tópicos para contribuir:
 
-- Documenting functionality of natives
-- Documenting parameter and return types
-- Naming unnamed natives appropriately
-- Adding example code to natives
-- Reviewing existing pull requests
+- Documentando a funcionalidade dos nativos
+- Documentando parâmetros e tipos de retorno
+- Nomeando nativos sem nome apropriadamente
+- Adicionando código de exemplo aos nativos
+- Revisando solicitações de pull existentes
 
-### Where are the CFX natives?
-This repository only contains original GTA V natives.
-Natives from the CFX namespace can be found in the [FiveM source][cfx-natives].
+### Onde estão os nativos CFX?
+Este repositório contém apenas nativos GTA V originais.
+Os nativos do namespace CFX podem ser encontrados na [fonte FiveM][cfx-natives].
 
-### FiveM documentation
-Documentation for FiveM can be found [here][fivem-docs].
+### Documentação do FiveM
+A documentação do FiveM pode ser encontrada [aqui][fivem-docs].
 
-[contributing]: ./.github/CONTRIBUTING.md
+[contribuindo]: ./.github/CONTRIBUTING.md
 [cfx-natives]: https://github.com/citizenfx/fivem/tree/master/ext/native-decls
 [fivem-docs]: https://github.com/citizenfx/fivem-docs
